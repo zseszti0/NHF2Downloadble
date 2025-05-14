@@ -1,0 +1,6 @@
+trialRun true false true false
+fly 20
+squid 20
+paladin 25
+squid 20
+fly 20
